@@ -1,0 +1,7 @@
+type: marketplace
+title: Java Padawan - Test
+language: English
+summary: Trilha para virar um Jedi da arte da programação orientada a objeto em Java.
+programming_language: Java
+content:
+- lesson1
